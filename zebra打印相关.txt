@@ -1,0 +1,3 @@
+使用zebradesigner3 pro 新建标签，注意设置纸张尺寸，制作完成后及时保存，保存后点击打印（勾选打印至文件）生成prn文件用txt打开复制代码。
+
+在线预览zpl打印 ：http://labelary.com/viewer.html   
