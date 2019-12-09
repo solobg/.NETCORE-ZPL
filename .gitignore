@@ -259,9 +259,3 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
-/Gl.Resource.Distributed.Centre/Gl.Resource.Host/services
-/Gl.Resource.Distributed.Centre/Gl.Resource.Distributed.Centre/services
-/TC.Gl.Ebooking/wwwroot/glui-wp/dist
-/TC.Gl.Ebooking/wwwroot/glui-wp/yarn.lock
-/TC.Gl.Ebooking/wwwroot/glui-wp/webpack.assets.json
-/TC.Gl.Ebooking/wwwroot/glui-wp/entries.config.json
